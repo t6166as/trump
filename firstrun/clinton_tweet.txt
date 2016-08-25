@@ -1,0 +1,5 @@
+"text"|"favorited"|"favoriteCount"|"replyToSN"|"created"|"truncated"|"replyToSID"|"id"|"replyToUID"|"statusSource"|"screenName"|"retweetCount"|"isRetweet"|"retweeted"|"longitude"|"latitude"
+"1"|"Why do so many Ku Klux Klan members support Trump?
+
+\"A lot of what he believes, we believe in.\" https://t.co/AqB3DLKL9f"|FALSE|2172|NA|2016-08-25 17:34:22|FALSE|NA|"768864106656956420"|NA|"<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>"|"HillaryClinton"|1697|FALSE|FALSE|NA|NA
+"2"|"Thank you to the Orlando Health and Florida Hospital for showing empathy and kindness in the face of hate. -H https://t.co/2RODu7Y5bn"|FALSE|4983|NA|2016-08-25 15:19:57|FALSE|NA|"768830280585052160"|NA|"<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>"|"HillaryClinton"|1713|FALSE|FALSE|NA|NA
